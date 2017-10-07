@@ -25,7 +25,7 @@ SECRET_KEY = 'm8@pdcvj+xk!6o_8ii7s=3_+tod=8k2@#==e_1x9)9t2i1c_&f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<stoneya>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'stoneya.pythonanywhere.com']
 
 
 # Application definition
